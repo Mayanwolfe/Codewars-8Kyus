@@ -18,9 +18,5 @@ function wrap(value) {
       'value':value 
     };
   }
-  9 days agoRefactor
-  function wrap(value) {
-    let x = {'value':value};
-    return x
-  }
+
   
